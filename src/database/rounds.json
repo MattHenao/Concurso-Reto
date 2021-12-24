@@ -1,0 +1,562 @@
+[
+    {
+        "level": 0,
+        "award": 100,
+        "category": "Cultura general",
+        "questions": [
+            {
+                "nameQuestion": "¿Cuál es el rio más largo del mundo?",
+                "answers": [
+                    {
+                        "answer": "El rio Misisipi",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El rio Nilo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El rio Amazonas",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "El rio Congo",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es el edificio más alto del mundo?",
+                "answers": [
+                    {
+                        "answer": "Burj Khalifa",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Torre de Shanghái",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "One World Trade Cente",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Abraj Al Bait",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es el planeta del sistema solar más grande?",
+                "answers": [
+                    {
+                        "answer": "Saturno",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Jupiter",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Urano",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Neptuno",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es el animal más grande del mundo?",
+                "answers": [
+                    {
+                        "answer": "Ballena azul",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Cachalote",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Ballena gris",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Orca",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es el libro más vendido de la historia?",
+                "answers": [
+                    {
+                        "answer": "Don Quijote de la Mancha",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Harry Potter y la piedra filosofal",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El principito",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "La biblia",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "award": 100,
+        "category": "Deportes",
+        "questions": [
+            {
+                "nameQuestion": "¿En que año se celebró el primer mundial de futbol?",
+                "answers": [
+                    {
+                        "answer": "1928",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1934",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1930",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "1940",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es la ultima cinta que puedes conseguir en Karate?",
+                "answers": [
+                    {
+                        "answer": "Morada",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Blanca",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Roja",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Negra",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cómo se llama la anotación de un tanto en fútbol americano?",
+                "answers": [
+                    {
+                        "answer": "Gol",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Anotación",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Touchdown",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Punto",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+                "answers": [
+                    {
+                        "answer": "3 años",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "4 años",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "5 años",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "2 años",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "Si juegas a la NFL ¿qué deporte practicas? ",
+                "answers": [
+                    {
+                        "answer": "Baseball",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Futbol soccer",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Fútbol americano",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Basketball",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "award": 100,
+        "category": "Geografia",
+        "questions": [
+            {
+                "nameQuestion": "¿Cuál es la ciudad más antigua del mundo?",
+                "answers": [
+                    {
+                        "answer": "Byblos - Libano",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Jericó - Israel",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Shush - Irán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Luxor - Egipto",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Qué países baña el mar Muerto?",
+                "answers": [
+                    {
+                        "answer": "Israel, Jordania y Palestina",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Rusia, Irán y Azerbaiyán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Egipto, Sudán y Eritrea",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Grecia y Turquía",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "El río más largo de Europa es...",
+                "answers": [
+                    {
+                        "answer": "El Támesis",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El Ebro",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El Tajo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "El Volga",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Qué es Zelandia?",
+                "answers": [
+                    {
+                        "answer": "Una ciudad islandesa",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Un continente",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Un parque temático",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Un país del hemisferio norte",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "El punto más profundo de la fosa de las Marianas está exactamente a...",
+                "answers": [
+                    {
+                        "answer": "11.054 metros de profundidad",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "11.044 metros de profundidad",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "11.144 metros de profundidad",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "11.034 metros de profundidad",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "award": 100,
+        "category": "Cine",
+        "questions": [
+            {
+                "nameQuestion": "¿Quién dirigió Reservoir Dogs?",
+                "answers": [
+                    {
+                        "answer": "Christopher Nolan",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Quentin Tarantino",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Zack Snyder",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Dennis Villeneuve ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Qué año ganó el Oscar Leonardo DiCaprio?",
+                "answers": [
+                    {
+                        "answer": "2016",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "2014",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "2007",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "2005",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿En qué año se estreno The Matrix? ",
+                "answers": [
+                    {
+                        "answer": "2001",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "2000",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1998",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1999",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuántos oscars consiguió Forrest Gump? ",
+                "answers": [
+                    {
+                        "answer": "Ninguno",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "6",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "7",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál es la película más taquilllera de la historia?",
+                "answers": [
+                    {
+                        "answer": "El rey león 2019",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Titanic",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Avengers Endgame",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Avatar",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "award": 100,
+        "category": "Historia",
+        "questions": [
+            {
+                "nameQuestion": "¿En que año descubrió Colón América?",
+                "answers": [
+                    {
+                        "answer": "1492",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "1502",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1496",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "1500",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Quién fue el primer emperador romano?",
+                "answers": [
+                    {
+                        "answer": "Calígula",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Nerón",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Julio Cesar",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Cesar Augusto",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿En que país nació Adolf Hitler?",
+                "answers": [
+                    {
+                        "answer": "Alemania",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Austria",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Suiza",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Polonia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿Cuál de estos cuatro hechos históricos es más antiguo?",
+                "answers": [
+                    {
+                        "answer": "Nacimiento de Jesucristo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Nacimiento de Confucio",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "Nacimiento de Mahoma",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Nacimiento de Buda Gautama",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "nameQuestion": "¿En qué año cayó el Imperio Romano de Occidente?",
+                "answers": [
+                    {
+                        "answer": "476",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "501",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "496",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "456",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
